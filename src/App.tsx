@@ -1,5 +1,5 @@
 import './App.css';
-import TimeLineGraphXRange from './TimeLineGraphXRange';
+import TimeLineGraphXRange from './components/TimeLineGraphXRange';
 
 function App() {
   return (
