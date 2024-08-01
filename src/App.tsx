@@ -1,9 +1,10 @@
 import './App.css';
+import TimeLineGraphXRange from './TimeLineGraphXRange';
 
 function App() {
   return (
     <>
-      <h1>hii</h1>
+      <TimeLineGraphXRange/>
     </>
   );
 }
